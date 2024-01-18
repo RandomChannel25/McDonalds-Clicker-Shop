@@ -1,0 +1,49 @@
+body {
+    background-color: orange;
+}
+#thisiscenter {
+    text-align: center;
+}
+#title {
+    font-weight: bold;
+}
+#Green {
+    font-weight: bold;
+    position: absolute;
+    right: 15px;
+    top: 0px;
+    font-size: large;
+}
+#red {
+    color: red;
+    font-size: large;
+    font-weight: bold;
+    position: absolute;
+    left: 110px;
+    top: 17px;
+}
+#idk {
+    position: absolute;
+    right: 250px;
+    top: 10px;
+}
+#shopBuyOne {
+    position: absolute;
+    top: 200px;
+    left: 30px;
+}
+#shopBuyTwo {
+    position: absolute;
+    top: 200px;
+    left: 230px;
+}
+#shopBuyThree {
+    position: absolute;
+    top: 200px;
+    left: 430px;
+}
+#shopBuyFour {
+    position: absolute;
+    top: 200px;
+    left: 630px;
+}
