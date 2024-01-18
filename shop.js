@@ -1,4 +1,4 @@
-var DaMoney = Infinity;
+var DaMoney = 0;
 
 function moneyClick() {
 DaMoney = DaMoney += 1;
